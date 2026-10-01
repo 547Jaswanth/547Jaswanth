@@ -139,7 +139,7 @@ Hi, I'm **Jaswanth**, a **Java Backend Developer based in Bengaluru, India**. I 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <!-- UPDATE: New projects will be added here later. Copy a block to add more. -->
 
