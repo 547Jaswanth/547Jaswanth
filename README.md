@@ -18,10 +18,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=547Jaswanth&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/547Jaswanth?label=Followers&style=flat-square&color=2c5364)
-![Open To Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square)
-
 [🌐 Portfolio](https://547jaswanth.github.io/portfolio-responsive-complete-main/) · [📄 Resume](https://drive.google.com/file/d/1yshCaZuTkCdyaDMqs2M8yErUjHiTvY1s/view?usp=sharing) · [💼 LinkedIn](https://www.linkedin.com/in/k-jaswanth-227b94256/) · [✉️ Email](mailto:jaswanth.keeramanda@gmail.com)
 
 </div>
