@@ -54,11 +54,6 @@ Hi, I'm **Jaswanth**, a **Java Backend Developer based in Bengaluru, India**. I 
 - 🖥️ Full stack application development
 - ✅ Software testing and quality
 
-### 🎲 Fun Fact
-
-<!-- UPDATE: Replace with your own fun fact if you like -->
-> I get more excited about a **green test suite** than a shiny new feature. Taking a codebase from 4% to 45% test coverage felt like leveling up in a game. 🎮
-
 ---
 
 ## 💼 Experience
@@ -92,50 +87,33 @@ Hi, I'm **Jaswanth**, a **Java Backend Developer based in Bengaluru, India**. I 
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages and Core
-![Java](https://img.shields.io/badge/Java_8_/_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- UPDATE: Add or remove badges here. Browse badges at https://shields.io and https://simpleicons.org -->
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ Backend and Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge&logo=serverfault&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🧪 Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-0A66C2?style=for-the-badge)
+![UI Testing](https://img.shields.io/badge/UI_Testing-8E44AD?style=for-the-badge)
+![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-E67E22?style=for-the-badge)
 
-### ☁️ Cloud and DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+### ☁️ DevOps and Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 🧪 Testing and API Tools
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🤖 AI-Assisted Development
-`GitHub Copilot` · `ChatGPT` · `Claude` · `Google AI Studio` · `Cursor`
-
-### 🧭 Practices
-`Agile / Scrum` · `SDLC & STLC` · `TDD` · `Code Reviews` · `SIT / UAT` · `Root Cause Analysis` · `Production Support` · `Technical Documentation` · `Stakeholder Management`
 
 ---
 
