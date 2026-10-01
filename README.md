@@ -68,7 +68,7 @@ Hi, I'm **Jaswanth**, a **Java Backend Developer based in Bengaluru, India**. I 
 ### 🔹 Software Engineer 1 · Spire.ai, Bengaluru
 *March 2026 – June 2026 · Project: iExchange (Career Management and Job Recommendation Platform)*
 
-- Built and maintained **Spring Boot microservices and REST APIs** for a platform that turns resumes into structured skill profiles
+- Built and maintained **Spring Boot microservices and REST APIs** for [iExchange](https://iexchange.ai/), a platform that turns resumes into structured skill profiles, and handled **API and integration testing**
 - Engineered backend logic for an **AI-driven job recommendation engine** matching candidates across **150,000+ skills, 2M+ active job listings and 6,000+ enterprises**, using resume parsing, skill scoring and geolocation-based filtering
 - Built modules for **skill-gap analysis and course recommendation**, integrating learning platforms such as Coursera, Udemy and YouTube
 - Managed **Jenkins CI/CD pipelines** across environments and investigated production issues through root cause analysis using distributed logs and error traces
@@ -139,21 +139,26 @@ Hi, I'm **Jaswanth**, a **Java Backend Developer based in Bengaluru, India**. I 
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <!-- UPDATE: New projects will be added here later. Copy a block to add more. -->
 
 ### 🧠 iExchange · Spire.ai
-*Career Management and Job Recommendation Platform · March 2026 – June 2026*
+*Career Management and Job Recommendation Platform · March 2026 – June 2026 · Role: Software Engineer 1 (Java Backend Development and Testing)*
 
-A career development platform that converts resumes into structured skill profiles for precise job matching and targeted learning, built on a distributed microservices architecture.
+A live career app that turns your experience into a skills profile, shows your skill gaps, recommends personalized learning, and matches you to better-fit jobs. It is sourced from **~2M real jobs across 6,000+ enterprises** and powered by **150,000+ skills**, and it runs on a distributed microservices architecture.
 
-- 🎯 Backend logic for an **AI-driven job recommendation engine** matching candidates across **150,000+ skills, 2M+ active job listings and 6,000+ enterprises**
+- 🎯 Backend logic for the **AI-driven job recommendation engine**, using resume parsing, skill scoring and geolocation-based filtering
 - 📈 Modules for **skill-gap analysis and course recommendation**, integrating Coursera, Udemy and YouTube
 - 🔔 REST APIs for profile updates, job save/unsave, notifications, notification templates and schedulers
-- 🚀 **Jenkins CI/CD** pipelines across multiple environments, plus root cause analysis using distributed logs and error traces
+- 🧪 **API testing, integration testing and quality assurance** to keep releases reliable
+- 🚀 **Jenkins CI/CD** pipelines across environments, plus root cause analysis using distributed logs and error traces
 
 **Tech Stack:** `Java` `Spring Boot` `Microservices` `Hibernate` `Spring Data JPA` `MySQL` `MongoDB` `Jenkins`
+
+[![Website](https://img.shields.io/badge/Website-iexchange.ai-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iexchange.ai/)
+[![App Store](https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/in/app/iexchange-jobs-learn-grow/id6468229316)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.iexchange.ai)
 
 ---
 
