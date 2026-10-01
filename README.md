@@ -141,28 +141,44 @@ Hi, I'm **Jaswanth**, a **Java Backend Developer based in Bengaluru, India**. I 
 
 ## 🚀 Featured Projects
 
-<!-- UPDATE: New projects will be added here later. Copy a table row to add more. -->
+<!-- UPDATE: New projects will be added here later. Copy a block to add more. -->
 
-### 🔐 Backend and Full Stack
+### 🧠 iExchange · Spire.ai
+*Career Management and Job Recommendation Platform · March 2026 – June 2026*
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **Role-Based Access Control (RBAC) System** | Authorization app with user roles, permissions, authentication and protected resource access, backed by REST APIs and API and authorization testing | `Java` `Spring Data JPA` `Hibernate` `MySQL` |
-| **Employee Management System** | CRUD-based application built during full stack training with layered architecture and database integration | `Java` `Spring Boot` `Hibernate` `MySQL` |
+A career development platform that converts resumes into structured skill profiles for precise job matching and targeted learning, built on a distributed microservices architecture.
 
-<!-- UPDATE: Add repo links for the projects above once you have them, for example [Repo](https://github.com/547Jaswanth/your-repo) -->
+- 🎯 Backend logic for an **AI-driven job recommendation engine** matching candidates across **150,000+ skills, 2M+ active job listings and 6,000+ enterprises**
+- 📈 Modules for **skill-gap analysis and course recommendation**, integrating Coursera, Udemy and YouTube
+- 🔔 REST APIs for profile updates, job save/unsave, notifications, notification templates and schedulers
+- 🚀 **Jenkins CI/CD** pipelines across multiple environments, plus root cause analysis using distributed logs and error traces
 
-### 🌐 Live Web Apps
+**Tech Stack:** `Java` `Spring Boot` `Microservices` `Hibernate` `Spring Data JPA` `MySQL` `MongoDB` `Jenkins`
 
-| Project | Live Demo |
-|---|---|
-| ⌨️ **Typing Speed Checker** | [Open](https://jaswanth-typing-speed-checker.netlify.app/) |
-| ⏱️ **Stop Watch** | [Open](https://jaswanth-stop-watch.netlify.app/) |
-| 🍽️ **Zomato Model** | [Open](https://jaswanth-zomatomodel-app.netlify.app/) |
-| 👍 **Likes & Dislikes** | [Open](https://jaswanth-likes-and-dislikes-webapp.netlify.app/) |
-| 💼 **Job Application** | [Open](https://jaswanth-job-application.netlify.app/) |
-| 📚 **Learning App** | [Open](https://jaswanth-learning-application.netlify.app/) |
-| 🧑‍💼 **Personal Portfolio** | [Open](https://547jaswanth.github.io/portfolio-responsive-complete-main/) |
+---
+
+### 🚚 Onboarding Application · Xpressbees (via NeoSOFT)
+*3PL Logistics Platform · January 2025 – July 2025*
+
+An enterprise onboarding platform for Xpressbees' logistics network, supporting **19,000+ pin codes and 4,500+ service centers**.
+
+- 🔧 Designed and implemented **100+ REST APIs** following secure coding standards and SDLC best practices
+- 🧪 Increased test coverage from **4% to 45%** with **300+ JUnit and Mockito test cases**
+- ⚡ Improved API performance by **30%** through SQL optimization, request profiling, caching and database tuning
+- 📚 Documented APIs with **Swagger/OpenAPI** and supported SIT/UAT and production releases
+
+**Tech Stack:** `Java` `Spring Boot` `Hibernate` `Spring Data JPA` `MySQL` `JUnit` `Mockito` `Swagger`
+
+---
+
+### 🌐 Personal Portfolio Website
+*Responsive developer portfolio, live on GitHub Pages*
+
+A responsive portfolio showcasing my experience, training, skills and projects, with a dark/light theme and a contact section that works on desktop and mobile.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=githubpages)](https://547jaswanth.github.io/portfolio-responsive-complete-main/)
 
 > 🚧 More backend and microservices projects coming soon!
 
