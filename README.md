@@ -49,12 +49,6 @@ Hi, I'm **Jaswanth**, a **Software Engineer based in Bengaluru, India** with han
 - 🌍 Open source
 - 🖥️ Full stack application development
 - ✅ Software testing and quality
-
-### 🎲 Fun Fact
-
-<!-- UPDATE: Replace with your own fun fact if you like -->
-> I get more excited about a **green test suite** than a shiny new feature. Taking a codebase from 4% to 45% test coverage felt like leveling up in a game. 🎮
-
 ---
 
 ## 🛠️ Tech Stack
