@@ -139,7 +139,7 @@ Hi, I'm **Jaswanth**, a **Java Backend Developer based in Bengaluru, India**. I 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <!-- UPDATE: New projects will be added here later. Copy a block to add more. -->
 
@@ -163,16 +163,19 @@ A live career app that turns your experience into a skills profile, shows your s
 ---
 
 ### 🚚 Onboarding Application · Xpressbees (via NeoSOFT)
-*3PL Logistics Platform · January 2025 – July 2025*
+*3PL Logistics Platform · January 2025 – July 2025 · Role: Java Backend Developer (Backend Development, Testing and Deployment)*
 
-An enterprise onboarding platform for Xpressbees' logistics network, supporting **19,000+ pin codes and 4,500+ service centers**.
+An enterprise onboarding platform for Xpressbees' logistics network, supporting **19,000+ pin codes and 4,500+ service centers**. I worked across backend development, testing and deployment teams to take features from code to release.
 
 - 🔧 Designed and implemented **100+ REST APIs** following secure coding standards and SDLC best practices
-- 🧪 Increased test coverage from **4% to 45%** with **300+ JUnit and Mockito test cases**
+- 🧪 Increased test coverage from **4% to 45%** with **300+ JUnit and Mockito test cases**, and supported **SIT, UAT and regression testing**
 - ⚡ Improved API performance by **30%** through SQL optimization, request profiling, caching and database tuning
-- 📚 Documented APIs with **Swagger/OpenAPI** and supported SIT/UAT and production releases
+- 🚀 Collaborated with the deployment team to support **software releases and production issue resolution**
+- 📚 Documented APIs with **Swagger/OpenAPI**
 
 **Tech Stack:** `Java` `Spring Boot` `Hibernate` `Spring Data JPA` `MySQL` `JUnit` `Mockito` `Swagger`
+
+[![Xpressbees](https://img.shields.io/badge/Website-xpressbees.com-F7B500?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.xpressbees.com/)
 
 ---
 
