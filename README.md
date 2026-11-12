@@ -18,7 +18,10 @@
 
 <br/>
 
-[🌐 Portfolio](https://547jaswanth.github.io/portfolio-responsive-complete-main/) · [📄 Resume]([https://drive.google.com/file/d/1yshCaZuTkCdyaDMqs2M8yErUjHiTvY1s/view?usp=sharing])· [💼 LinkedIn](https://www.linkedin.com/in/k-jaswanth-227b94256/) · [✉️ Email](mailto:jaswanth.keeramanda@gmail.com)
+[🌐 Portfolio](https://547jaswanth.github.io/portfolio-responsive-complete-main/)
+[📄 Resume](https://drive.google.com/file/d/1yshCaZuTkCdyaDMqs2M8yErUjHiTvY1s/view?usp=sharing)
+[💼 LinkedIn](https://www.linkedin.com/in/k-jaswanth-227b94256/)
+[✉️ Email](mailto:jaswanth.keeramanda@gmail.com)
 
 </div>
 
